@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>osx2x</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.digitalflapjack.osx2x</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
